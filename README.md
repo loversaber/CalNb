@@ -1,11 +1,19 @@
-# CalNb
+CalNb
+============
+
 ### The tool for estimating mtDNA bottleneck size in transmission. 
+__Qi Liu  
+China Agricultural University__
 
-This algorithm of this method is constructed based on the published paper **Transmission of human mtDNA heteroplasmy in the Genome of the Netherlands families: support for a variable-size bottleneck**. 
+The algorithm of this method comes from the published paper 
+***Transmission of human mtDNA heteroplasmy in the Genome of the Netherlands families: support for a variable-size bottleneck***. 
 
-CalNb was written by Qi Liu in Python and used in the paper **The transmission of human mitochondrial DNA in four-generation pedigrees**(https://doi.org/10.1002/humu.24390)
+The tool CalNb was written by Qi Liu in Python and used in the paper 
+***The transmission of human mitochondrial DNA in four-generation pedigrees***(https://doi.org/10.1002/humu.24390)
 
-Please cite these two papers if you use this tool in you paper. **I would appreciate it!**
+Please cite these two papers if you use this tool in you paper. 
+
+**I would appreciate it!**
 
 ## Usage
 ```
@@ -29,4 +37,4 @@ optional arguments:
 ```
 
 ## Contact
-Qi Liu :(lq2021cambridge@gmail.com)
+Qi Liu : lq2021cambridge@gmail.com
