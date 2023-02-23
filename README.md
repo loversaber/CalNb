@@ -6,14 +6,7 @@ __Qi Liu
 China Agricultural University__
 
 The algorithm of this method comes from the published paper 
-***Transmission of human mtDNA heteroplasmy in the Genome of the Netherlands families: support for a variable-size bottleneck***. 
-
-The tool CalNb was written by Qi Liu in Python and used in the paper 
-***The transmission of human mitochondrial DNA in four-generation pedigrees***(https://doi.org/10.1002/humu.24390)
-
-Please cite these two papers if you use this tool in you paper. 
-
-**I would appreciate it!**
+***Transmission of human mtDNA heteroplasmy in the Genome of the Netherlands families: support for a variable-size bottleneck***. The tool CalNb was written by Qi Liu in Python and used in the paper ***The transmission of human mitochondrial DNA in four-generation pedigrees***(https://doi.org/10.1002/humu.24390). Please cite these two papers if you use this tool in you paper. **I would appreciate it!**
 
 ## Usage
 ```
